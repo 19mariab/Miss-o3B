@@ -6,11 +6,13 @@ const textoResultado = document.querySelector(".texto-resultado");
 
 const perguntas = [
     {
-        enunciado: "Assim que saiu da escola você se depara com uma nova tecnologia, um chat que consegue responder todas as dúvidas que uma pessoa pode ter, ele também gera imagens e áudios hiper-realistas. Qual o primeiro pensamento?",
+        enunciado: 
+Nossa história será sobre do filme joao e maria 
+Era uma vez uma antiga floresta, onde as árvores sussurravam segredos e as sombras pareciam ganhar vida. Você e seu irmão estão perdidos, e a única certeza é que a noite está chegando",
         alternativas: [
             {
-                texto: "Isso é assustador!",
-                afirmacao: "No início ficou com medo do que essa tecnologia pode fazer. "
+            texto: "A Trilha de Pedras Brilhantes",
+                afirmacao: "As pedras o levam diretamente aos fundos da cabana de doces, permitindo que você observe o local sem ser notado por quem quer que more lá dentro. Você ganha a vantagem do elemento surpresa."
             },
             {
                 texto: "Isso é maravilhoso!",
